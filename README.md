@@ -29,7 +29,7 @@ py -m pip install -U pygame --user
 # On Unix-like OS
 python3 -m pip install -U pygame --user
 ```
-## After Installation
+### After Installation
 You can verify the installation by running the following command:
 
 ```bash
