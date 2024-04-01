@@ -24,6 +24,11 @@ This is a basic version of the game. Future improvements might include adding mo
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
+## Credits
+
+This game was inspired by [THE BUTTON by Elendow](https://store.steampowered.com/app/1999740/THE_BUTTON_by_Elendow/) available on Steam.
+
+
 ## License
 
 This project is licensed under the terms of the MIT license.
