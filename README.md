@@ -10,7 +10,25 @@ Occasionally, the game resets the counter to zero, displaying a humorous message
 
 ## Installation
 
-To run the game, you need to have Python and Pygame installed on your system. Once you have these prerequisites, you can clone the repository and run the `main.py` file to start the game.
+To run the game, you need to have Python and Pygame installed on your system. 
+
+### Python Installation
+
+If you don't already have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+
+### Pygame Installation
+
+You can install Pygame via pip, which is the Python package installer. If Python is installed correctly, you should be able to use pip from the command line.
+
+Here's how to install Pygame:
+
+```bash
+# On windows
+py -m pip install -U pygame --user
+
+# On Unix-like OS
+python3 -m pip install -U pygame --user
+```
 
 ## Controls
 
