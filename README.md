@@ -29,6 +29,16 @@ py -m pip install -U pygame --user
 # On Unix-like OS
 python3 -m pip install -U pygame --user
 ```
+## After Installation
+You can verify the installation by running the following command:
+
+```bash
+# On windows
+py -m pygame.examples.aliens
+
+# On Unix-like OS
+python3 -m pygame.examples.aliens
+```
 
 ## Controls
 
